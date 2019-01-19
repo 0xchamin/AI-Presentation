@@ -2,7 +2,7 @@
 <h2 align="center">"One way of learning AI"</h2>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="AI Practitioner means using right set of tools for right projects" src="images/tools.jpg" width="450">
+    <img alt="GitPoint" title="AI Practitioner means using right set of tools for right projects" src="images/tools.jpg" width="100%">
   </a>
 </p>
 
