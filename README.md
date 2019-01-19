@@ -1,7 +1,8 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> AI Practitioner </h1> <br>
+<h2 align="center">"One way of learning AI"</h2>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="GitPoint" title="AI Practitioner means using right set of tools for right projects" src="images/tools.jpg" width="450">
   </a>
 </p>
 
@@ -119,4 +120,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## Acknowledgments
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Thanks to [NTU COOL ASIA](http://www.wkwsci.ntu.edu.sg/Research/Pages/Research-Centres.aspx) and [Professor Theng Yin Leng](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=TYLTHENG) for giving the opportunity.
