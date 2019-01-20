@@ -44,13 +44,15 @@
 **Papers**
 * [Deep Learning Papers Reading Roadmap
 ](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+> If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
+> Here is a reading roadmap of Deep Learning papers!
 * [arXiv.org](https://arxiv.org/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 
 **Machine Learning & Data Analysis**
 
-*[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
-*[Delta Analytics](http://www.deltanalytics.org/curriculum.html)
+* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Delta Analytics](http://www.deltanalytics.org/curriculum.html)
 
 **Deep Learning**
 
