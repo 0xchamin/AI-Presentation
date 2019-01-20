@@ -2,7 +2,7 @@
 <h2 align="center">"One way of learning AI"</h2>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="AI Practitioner means using right set of tools for right projects" src="images/tools.jpg" width="100%">
+    <img alt="GitPoint" title="AI Practitioner means using right set of tools for right projects" src="images/tools.jpg" width="81%">
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 - [Deep Learning](#deep-learning)
 - [Backers](#backers-)
 - [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgment](#acknowledgment)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -45,18 +45,27 @@
 * [Deep Learning Papers Reading Roadmap
 ](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 > If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
-> Here is a reading roadmap of Deep Learning papers!
+> Above is a reading roadmap of Deep Learning papers!
 * [arXiv.org](https://arxiv.org/)
+> Open access to 1,489,618 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. Maintain by [Cornell University](https://www.cornell.edu/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+> Built in spare time by [@karpathy](https://twitter.com/karpathy) to accelerate research.
 
 **Machine Learning & Data Analysis**
-
+* [University of Berkeley CS 188 | Introduction to Artificial Intelligence | Fall 2018](https://inst.eecs.berkelStaey.edu/~cs188/fa18/)
+> This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+> This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
+* [fast.ai Machine Learning]()
 * [Delta Analytics](http://www.deltanalytics.org/curriculum.html)
+> Teach you the fundamental building blocks and the theory necessary to be a responsible machine learning practitioner in your own community. 
 
 **Deep Learning**
+* [fast.ai](https://www.fast.ai/)
+> Free course from 
 
-**Free Courses from universities**
+* [Stanford University Computer Vision (cs231n) (2016)](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+* [Stanford University Natural Language Processing (cs224n)](http://web.stanford.edu/class/cs224n/)
 
 **Forums**
 
