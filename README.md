@@ -40,6 +40,16 @@
 ### Self Learning Resources
 
 **Books**
+* [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939) by Sebastian Raschka and Vahid Mirjalili.
+>  Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition.
+> Online version of the book can be found [@GitHub](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+> Concepts, Tools, and Techniques to Build Intelligent Systems
+* [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) by Francois Chollet (the founder of [Keras](https://keras.io/) language)
+> Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.
+* [Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow, Aaron Courville and Yoshua Bengio
+* [Reinforcement Learning, Second Edition](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) by Richard S. Sutton and Andrew G. Barto.
+> This second edition focuses on core online learning algorithms, with the more mathematical material set off in shaded boxes. Part I covers as much of reinforcement learning as possible without going beyond the tabular case for which exact solutions can be found. Many algorithms presented in this part are new to the second edition, including UCB, Expected Sarsa, and Double Learning. Part II extends these ideas to function approximation, with new sections on such topics as artificial neural networks and the Fourier basis, and offers expanded treatment of off-policy learning and policy-gradient methods. Part III has new chapters on reinforcement learning's relationships to psychology and neuroscience, as well as an updated case-studies chapter including AlphaGo and AlphaGo Zero, Atari game playing, and IBM Watson's wagering strategy. The final chapter discusses the future societal impacts of reinforcement learning.
 
 **Papers**
 * [Deep Learning Papers Reading Roadmap
@@ -56,26 +66,44 @@
 > This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
 > This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
-* [fast.ai Machine Learning]()
+* [fast.ai Machine Learning](https://course.fast.ai/ml)
 * [Delta Analytics](http://www.deltanalytics.org/curriculum.html)
 > Teach you the fundamental building blocks and the theory necessary to be a responsible machine learning practitioner in your own community. 
 
 **Deep Learning**
-* [fast.ai](https://www.fast.ai/)
-> Free course from 
+* [fast.ai | Practical Deep Learning For Coders, Part 1](https://course.fast.ai/)
+* [fast.ai | Cutting Edge Deep Learning For Coders, Part 2](https://course.fast.ai/part2.html)
+> Free courses from [fast.ai](https://www.fast.ai/)
 
 * [Stanford University Computer Vision (cs231n) (2016)](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * [Stanford University Natural Language Processing (cs224n)](http://web.stanford.edu/class/cs224n/)
+* [Deep Reinforcement Learning @ UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) by Google Deep Mind team. 
+
+**Mathematics**
+* [fast.ai | Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+> Another course offered by fast.ai
+* [3Blue 1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+> Animated math. centers around presenting math with a visuals-first approach. 
 
 **Forums**
+* [Machine Learning Sub-Reddit](https://www.reddit.com/r/MachineLearning/)
+* [Deep Learning Sub-Reddit](https://www.reddit.com/r/deeplearning/)
+
+**Blogging**
+* [Towards Data Science](https://towardsdatascience.com/)
 
 **Competitions**
-
-**GitHub**
+* [Kaggle](https://www.kaggle.com/)
 
 **Opportunities**
+* [Pi School, School of AI](https://picampus-school.com/programme/school-of-ai/)
+* [CIFAR amil | DLRL Summer School](https://dlrlsummerschool.ca/)
+* [Google AI Residency Program](https://ai.google/research/join-us/ai-residency/)
+* [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
 
-
+**Self Learn People Profiles/Projects**
+* [60 Day Deep Reinforcement Learning Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge) by Andrea Lonza. 
+* [1 Year ML Journey](https://github.com/andri27-ts/1-Year-ML-Journey) an Andrea Lonza. 
 
 
 ## Introduction
