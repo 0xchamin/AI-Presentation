@@ -7,33 +7,65 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  Links to helpful resources
 </p>
-
+<!-- 
 <p align="center">
   <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
+  <!-- <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-  </a>
-</p>
+  </a> -->
+<!-- </p> --> 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Self Learning](#self-learning)
 - [Introduction](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
+- [Data Analysis](#data-analysis)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
 - [Backers](#backers-)
 - [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Self Learning
+
+### Self Learning Resources
+
+**Books**
+
+**Papers**
+* [Deep Learning Papers Reading Roadmap
+](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [arXiv.org](https://arxiv.org/)
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+
+**Machine Learning & Data Analysis**
+
+*[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+*[Delta Analytics](http://www.deltanalytics.org/curriculum.html)
+
+**Deep Learning**
+
+**Free Courses from universities**
+
+**Forums**
+
+**Competitions**
+
+**GitHub**
+
+**Opportunities**
+
+
+
 
 ## Introduction
 
@@ -118,6 +150,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/git-point/sponsor/8/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/9/avatar.svg"></a>
 
-## Acknowledgments
+## Acknowledgment
 
 Thanks to [NTU COOL ASIA](http://www.wkwsci.ntu.edu.sg/Research/Pages/Research-Centres.aspx) and [Professor Theng Yin Leng](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=TYLTHENG) for giving the opportunity.
