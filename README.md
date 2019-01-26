@@ -67,11 +67,13 @@
 * [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
 > This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
 * [fast.ai Machine Learning](https://course.fast.ai/ml)
+  * [Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
 * [Delta Analytics](http://www.deltanalytics.org/curriculum.html)
 > Teach you the fundamental building blocks and the theory necessary to be a responsible machine learning practitioner in your own community. 
 
 **Deep Learning**
 * [fast.ai | Practical Deep Learning For Coders, Part 1](https://course.fast.ai/)
+  * [Notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
 * [fast.ai | Cutting Edge Deep Learning For Coders, Part 2](https://course.fast.ai/part2.html)
 > Free courses from [fast.ai](https://www.fast.ai/)
 
